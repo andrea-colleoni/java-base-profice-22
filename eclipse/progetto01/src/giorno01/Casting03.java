@@ -7,7 +7,7 @@ public class Casting03 {
 		// come altro tipo
 		
 		int a = 10;
-		// interpreta a come se fosse un long
+		// interpretata come se fosse un long
 		System.out.println((long)a);
 	}
 

@@ -8,7 +8,8 @@ Con n = 5 => un quadrato vuoto 5x5
 #   #
 #####
 
-2) Scrivere un programma che dato un numero < 30 (deciso a programma) verifichi se è un numero primo 
+2) Scrivere un programma che dato un numero < 30 (deciso a programma) verifichi 
+se è un numero primo
 
 3) Scrivere un programma che definito un numero (deciso a programma), stampi questo pattern
 
