@@ -4,10 +4,10 @@ public class Esercizio02 {
 	
 	/*
 	 Creare una classe "Lampadina" che abbia:
-	 -  un attributo "accesa" di tipo "boolean" che indica se la lampadina 
-	    è accesa (true) o spenta (false)
+	 - un attributo "accesa" di tipo "boolean" che indica se la lampadina 
+	   è accesa (true) o spenta (false)
 	 - un metodo stampaInfo() che stampa sullo schermo lo stato della lampadina (e.g.
-	   "La lampadona è ACCESA")
+	   "La lampadina è ACCESA")
 	 - un metodo accendi() che porta lo stato della lampadina a ACCESA
 	 - un metodo spegni() che porta lo stato della lampadina a SPENTA
 	 
