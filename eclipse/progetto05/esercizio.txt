@@ -1,0 +1,5 @@
+Buongiorno,
+qeusto è un esercizio sui files.
+10. iniZIA CON un NUMERO
+INIzia con una LetTera
+- NOn iniZIa né CON UNa lEttEra Nè Con UN NUmerO

@@ -1,0 +1,4 @@
+Cario diario,
+oggi è lunedì.
+c'è il corso di Java.
+finisce alle 18.00

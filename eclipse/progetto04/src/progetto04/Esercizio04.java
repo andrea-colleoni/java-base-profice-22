@@ -26,8 +26,6 @@ public class Esercizio04 {
 	 - se la riga inizia con un numero, minuscolizza tutta la riga
 	 - infine trasferisce il contenuto così ottenuto in un un file "risultato.txt"
 	 
-	  
-	 
 	 */
 
 }
